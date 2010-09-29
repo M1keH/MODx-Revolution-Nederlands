@@ -3,14 +3,13 @@ Dutch translation for MODX Revolution
 Translated:
 - about.inc.php 
 
+- formcustomization.inc.php
+- import.inc.php
 - lexicon.inc.php
 - login.inc.php
-
 - mail.inc.php 
 - manager_log.inc.php 
 - menu.inc.php 
 - messages.inc.php
-
 - namespace.inc.php
-
 - package_builder.inc.php
