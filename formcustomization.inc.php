@@ -25,7 +25,7 @@ $_lang['field_desc'] = 'Dit is het te beïnvloeden veld. Dit mag ook een tab of T
 $_lang['field_default'] = 'Standaard veldwaarde';
 $_lang['field_label'] = 'Veldlabel';
 $_lang['field_visible'] = 'Veld zichtbaar';
-$_lang['form_customization_msg'] = 'Hier is een lijst met huidig toegepaste regels. Meer informatie over regels en Form Customization kan <a href="http://svn.modxcms.com/docs/display/revolution/Form+Customization" target="_blank">hier</a> gevonden worden. Noteer dat onjuiste regels in jouw installatie van MODx Revolution wellicht problemen veroorzaken. Ge&iuml;nactiveerde regels zijn grijs uitgefade.';
+$_lang['form_customization_msg'] = 'Hier is een lijst met huidig toegepaste regels. Meer informatie over regels en Form Customization kan <a href="http://svn.modxcms.com/docs/display/revolution/Form+Customization" target="_blank">hier</a> gevonden worden. Noteer dat onjuiste regels in jouw installatie van MODx Revolution wellicht problemen veroorzaken. Gedeactiveerde regels zijn grijs uitgefade.';
 $_lang['form_rules'] = 'Formulier regels';
 $_lang['rule'] = 'Regel';
 $_lang['rule_create'] = 'Regel maken';
