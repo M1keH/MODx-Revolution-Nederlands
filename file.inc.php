@@ -6,38 +6,40 @@
  * @package modx
  * @subpackage lexicon
  * 
- * @author GP Sietzema, Sterc.nl
+ * @author MJ Hofland, veiliggesteld.nl
  */
-$_lang['file_confirm_remove'] = 'Are you sure you want to remove this file? This could potentially break your website.';
-$_lang['file_deleted'] = 'Success!';
-$_lang['file_delete_file'] = 'Delete File';
-$_lang['file_delete_folder'] = 'Delete Folder';
-$_lang['file_download_file'] = 'Download File';
-$_lang['file_download_unzip'] = 'Unzip File';
-$_lang['file_edit'] = 'Edit File';
+$_lang['file_confirm_remove'] = 'Weet je zeker dat je dit bestand wilt verwijderen? Dit kan uw website potentieel breken!';
+$_lang['file_confirm_remove'] = 'Bent u zeker dat u dit bestand wilt verwijderen? Dit kan uw website potentieel breken.';
+$_lang['file_deleted'] = 'Succes!';
+$_lang['file_delete_file'] = 'Verwijder Bestand';
+$_lang['file_delete_folder'] = 'Verwijder Map';
+$_lang['file_download_file'] = 'Download Bestand';
+$_lang['file_download_unzip'] = 'Bestand Uitpakken';
+$_lang['file_edit'] = 'Bastand Bewerken';
 $_lang['file_err_chmod'] = 'An unknown error occurred while trying to chmod the target.';
 $_lang['file_err_chmod_ns'] = 'Please specify a mode to chmod to.';
 $_lang['file_err_filter'] = 'No files match the specified filter.';
 $_lang['file_err_invalid'] = 'The file is not a regular file and cannot be removed.';
-$_lang['file_err_nf'] = 'File does not exist!';
-$_lang['file_err_ns'] = 'Please specify a valid file.';
-$_lang['file_err_open'] = 'Cannot open file: ';
-$_lang['file_err_perms_rename'] = 'The webserver does not have the necessary permissions to rename the file.';
-$_lang['file_err_perms_remove'] = 'The webserver does not have the necessary permissions to remove the file.';
-$_lang['file_err_rename'] = 'MODx failed to rename the file. Please make sure your permissions are set correctly.';
-$_lang['file_err_remove'] = 'MODx failed to delete the file. Please make sure your permissions are set correctly.';
-$_lang['file_err_save'] = 'Cannot save file, please ensure target directory is writable!';
-$_lang['file_err_unzip'] = 'Unzip Failed!';
-$_lang['file_err_unzip_invalid_path'] = 'Invalid path for the unzipped file.';
-$_lang['file_err_unzip_missing_lib'] = ' Missing zip library (php_zip.dll / zip.so)';
-$_lang['file_err_upload'] = 'An error occurred while trying to upload the files.';
-$_lang['file_exists_hk'] = 'File <b>{0}</b> already exists';
-$_lang['file_extensions'] = 'File Extensions';
+$_lang['file_err_nf'] = 'Bestand bestaat niet!';
+$_lang['file_err_ns'] = 'Geef a.u.b een geldig bestand op.';
+$_lang['file_err_open'] = 'Kan dit bestand niet openen: ';
+$_lang['file_err_perms_rename'] = 'De webserver heeft niet de nodige rechten om het bestand te hernoemen.';
+$_lang['file_err_perms_remove'] = 'De webserver heeft niet de nodige rechten om het bestand te verwijderen.';
+$_lang['file_err_rename'] = 'MODx kan het bestand niet hernoemen. Controleer de rechten.';
+$_lang['file_err_remove'] = 'MODx kan het bestand niet verwijderen. Controleer de rechten.';
+$_lang['file_err_save'] = 'Kon het bestand niet opslaan, zorg ervoor dat de doel map beschrijfbaar is!';
+$_lang['file_err_save'] = 'Kon het bestand niet opslaan, zord ervoor dat de doel map beschrijfbaar is!';
+$_lang['file_err_unzip'] = 'Uitpakken Mislukt!';
+$_lang['file_err_unzip_invalid_path'] = 'Ongeldige Uitpak Directorie.';
+$_lang['file_err_unzip_missing_lib'] = ' Zip library niet gevonden (php_zip.dll / zip.so)';
+$_lang['file_err_upload'] = 'Er is een fout opgetreden bij het uploaden.';
+$_lang['file_exists_hk'] = 'Bestand <b>{0}</b> bestaat al';
+$_lang['file_extensions'] = 'Bestands Extensie';
 $_lang['file_extensions_desc'] = 'These are the allowed file extensions for the content type.';
-$_lang['file_folder_enter_new'] = 'Enter New Folder Name';
-$_lang['file_folder_chmod'] = 'Chmod Directory';
-$_lang['file_folder_create'] = 'Create Directory';
-$_lang['file_folder_create_here'] = 'Create Directory Here';
+$_lang['file_folder_enter_new'] = 'Typ de naam voor de nieuwe map';
+$_lang['file_folder_chmod'] = 'Chmod Map';
+$_lang['file_folder_create'] = 'Maak Map';
+$_lang['file_folder_create_here'] = 'Maak Map Hier';
 $_lang['file_folder_created'] = 'Folder created successfully!';
 $_lang['file_folder_deleted'] = 'Folder was successfully deleted!';
 $_lang['file_folder_err_ae'] = 'A directory already exists with that name in that location.';

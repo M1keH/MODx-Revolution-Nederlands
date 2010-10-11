@@ -9,8 +9,8 @@
  * @author GP Sietzema, Sterc.nl
  */
 $_lang['element'] = 'Element';
-$_lang['element_err_nf'] = 'Element not found.';
-$_lang['element_err_ns'] = 'Element not specified.';
+$_lang['element_err_nf'] = 'Element niet gevonden.';
+$_lang['element_err_ns'] = 'Element niet gespecificeerd.';
 $_lang['quick_create'] = 'Quick Create';
 $_lang['quick_create_chunk'] = 'Quick Create Chunk';
 $_lang['quick_create_plugin'] = 'Quick Create Plugin';
@@ -25,7 +25,7 @@ $_lang['quick_update_tv'] = 'Quick Update TV';
 $_lang['properties_export'] = 'Export Properties';
 $_lang['properties_import'] = 'Import Properties';
 $_lang['tv_elements'] = 'Input Option Values';
-$_lang['tv_default'] = 'Default Value';
+$_lang['tv_default'] = 'Standaard waarde';
 $_lang['tv_type'] = 'Input Type';
 $_lang['tv_output_type'] = 'Output Type';
 $_lang['tv_output_type_properties'] = 'Output Type Properties';
