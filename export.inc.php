@@ -6,7 +6,7 @@
  * @package modx
  * @subpackage lexicon
  * 
- * @author GP Sietzema, Sterc.nl
+ * @author MJ Hofland, veiliggesteld.nl
  */
 $_lang['export_site_cacheable'] = 'Inclusief non-cacheable bestanden:';
 $_lang['export_site_exporting_document'] = 'Bestand <strong>%s</strong> van <strong>%s</strong> exporteren <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><i>%s</i>, id %s</small><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';

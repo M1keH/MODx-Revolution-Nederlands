@@ -6,7 +6,7 @@
  * @package modx
  * @subpackage lexicon
  * 
- * @author GP Sietzema, Sterc.nl
+ * @author MJ Hofland, veiliggesteld.nl
  */
 $_lang['access'] = 'Toegang';
 $_lang['access_denied'] = 'Toegang geweigerd.';
@@ -371,7 +371,7 @@ $_lang['settings_general'] = 'Algemeen';
 $_lang['settings_page_settings'] = 'Pagina Instellingen';
 $_lang['showing'] = 'Zichtbaar';
 $_lang['show_preview'] = 'Laat voorbeeld venster zien';
-$_lang['show_tree'] = 'Show tree';
+$_lang['show_tree'] = 'Toon tree';
 $_lang['showing_pub'] = 'Publiceer Datums zichtbaar';
 $_lang['showing_unpub'] = 'Depubliceerd Datums zichtbaar';
 $_lang['snippet'] = 'Snippet';

@@ -6,7 +6,7 @@
  * @package modx
  * @subpackage lexicon
  * 
- * @author GP Sietzema, Sterc.nl
+ * @author MJ Hofland, veiliggesteld.nl
  */
 $_lang['element'] = 'Element';
 $_lang['element_err_nf'] = 'Element niet gevonden.';
